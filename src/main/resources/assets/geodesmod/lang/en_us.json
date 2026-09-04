@@ -1,3 +1,6 @@
 {
-  "item.geodesmod.geode": "Geode"
+  "item.geodesmod.geode": "Geode",
+
+  "itemGroup.geodesmod.geodes_items_tab": "Geodes"
+
 }
