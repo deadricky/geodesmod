@@ -59,7 +59,7 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> DWARF_SCROLL_VI = ITEMS.register("dwarf_scroll_vi",
             () -> new Item(new Item.Properties()));
-    public static final DeferredItem<Item> DWARD_GADGET = ITEMS.register("dwarf_gadget",
+    public static final DeferredItem<Item> DWARF_GADGET = ITEMS.register("dwarf_gadget",
             () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> DWARF_SCROLL_I = ITEMS.register("dwarf_scroll_i",
             () -> new Item(new Item.Properties()));
@@ -113,6 +113,8 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> JAGOITE = ITEMS.register("jagoite",
             () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> JASPER = ITEMS.register("jasper",
+            () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> KYANITE = ITEMS.register("kyanite",
             () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> LEMON_STONE = ITEMS.register("lemon_stone",
@@ -144,6 +146,8 @@ public class ModItems {
     public static final DeferredItem<Item> ORNAMENTAL_FAN = ITEMS.register("ornamental_fan",
             () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> ORPIMENT = ITEMS.register("orpiment",
+            () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> OPAL = ITEMS.register("opal",
             () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> PETRIFIED_STONE = ITEMS.register("petrified_stone",
             () -> new Item(new Item.Properties()));
