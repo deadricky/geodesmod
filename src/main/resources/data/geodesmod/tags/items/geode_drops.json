@@ -1,0 +1,17 @@
+{
+  "values": [
+    "minecraft:cobblestone",
+    "minecraft:mossy_cobblestone",
+    "minecraft:clay_ball",
+    "geodesmod:sandstone",
+    "minecraft:copper_ore",
+    "minecraft:iron_ore",
+    "minecraft:andesite",
+    "minecraft:coal",
+    "geodesmod:rusty_spur",
+    "create:zinc_ore",
+    "geodesmod:calcite",
+    "geodesmod:chipped_amphora",
+    "geodesmod:stone"
+  ]
+}

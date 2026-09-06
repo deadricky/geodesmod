@@ -1,0 +1,38 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "extractinator"
+    }
+  ],
+  "type": "extractinator:extractinating",
+  "input": {
+    "item": "geodesmod:magma_geode"
+  },
+  "drops": [
+    {
+      "drop": "#geodesmod:magma_geode_drops",
+      "drop_chance": 1.0,
+      "min_drop_count": 1,
+      "max_drop_count": 2
+    },
+    {
+      "drop": "#extractinator:magma_geode_uncommon_drops",
+      "drop_chance": 0.75,
+      "min_drop_count": 1,
+      "max_drop_count": 1
+    },
+    {
+      "drop": "#extractinator:magma_geode_rare_drops",
+      "drop_chance": 0.1,
+      "min_drop_count": 1,
+      "max_drop_count": 1
+    },
+    {
+      "drop": "#extractinator:magma_geode_legendary_drops",
+      "drop_chance": 0.01,
+      "min_drop_count": 1,
+      "max_drop_count": 1
+    }
+  ]
+}
