@@ -1,5 +1,13 @@
 {
   "values": [
-    "minecraft:snowball"
+    "geodesmod:omni_geode",
+    "geodesmod:ancient_doll",
+    "geodesmod:ancient_drum",
+    "geodesmod:ancient_seed",
+    "geodesmod:ancient_sword",
+    "geodesmod:baryte",
+    "geodesmod:bixite",
+    "geodesmod:fire_quartz",
+    "geodesmod:jasper"
   ]
 }

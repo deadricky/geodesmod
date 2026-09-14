@@ -1,5 +1,15 @@
 {
   "values": [
-    "minecraft:snowball"
+    "geodesmod:prehistoric_handaxe",
+    "geodesmod:prehistoric_rib",
+    "geodesmod:prehistoric_skull",
+    "geodesmod:prehistoric_tibia",
+    "geodesmod:skeletal_hand",
+    "geodesmod:petrified_stone",
+    "geodesmod:skeletal_tail",
+    "geodesmod:prehistoric_tool",
+    "geodesmod:prehistoric_vertebra",
+    "geodesmod:gem_node",
+    "geodesmod:helvite"
   ]
 }

@@ -1,5 +1,16 @@
 {
   "values": [
-    "minecraft:snowball"
+    "geodesmod:orpiment",
+    "geodesmod:dolomite",
+    "geodesmod:quartz",
+    "geodesmod:basalt",
+    "minecraft:magma_block",
+    "geodesmod:bone_flute",
+    "geodesmod:slate",
+    "geodesmod:fairy_stone",
+    "geodesmod:obsidian",
+    "geodesmod:lemon_stone",
+    "geodesmod:pyrite",
+    "geodesmod:sandstone"
   ]
 }

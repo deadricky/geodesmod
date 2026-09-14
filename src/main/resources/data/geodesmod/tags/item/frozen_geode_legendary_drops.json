@@ -1,11 +1,8 @@
 {
   "values": [
-    "minecraft:snowball",
-    "geodesmod:prismatic_shard",
     "geodesmod:chicken_statue",
     "geodesmod:thunder_egg",
     "geodesmod:dinosaur_egg",
-    "geodesmod:malachite",
     "geodesmod:nautilus_fossil"
   ]
 }

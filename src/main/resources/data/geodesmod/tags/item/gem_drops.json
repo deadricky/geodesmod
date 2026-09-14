@@ -1,5 +1,13 @@
 {
   "values": [
-    "minecraft:snowball"
+    "geodesmod:diamond",
+    "geodesmod:amethyst",
+    "geodesmod:emerald",
+    "geodesmod:jamborite",
+    "geodesmod:jade",
+    "geodesmod:topaz",
+    "geodesmod:star_shard",
+    "geodesmod:prismatic_shard",
+    "geodesmod:malachite"
   ]
 }

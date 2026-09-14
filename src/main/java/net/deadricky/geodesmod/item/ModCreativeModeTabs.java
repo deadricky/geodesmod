@@ -93,6 +93,7 @@ public class ModCreativeModeTabs {
                                 output.accept(ModItems.NEPTUNITE.get());
                                 output.accept(ModItems.OBSIDIAN.get());
                                 output.accept(ModItems.OCEAN_STONE.get());
+                                output.accept(ModItems.OMNI_GEODE.get());
                                 output.accept(ModItems.OPAL.get());
                                 output.accept(ModItems.ORNAMENTAL_FAN.get());
                                 output.accept(ModItems.ORPIMENT.get());
