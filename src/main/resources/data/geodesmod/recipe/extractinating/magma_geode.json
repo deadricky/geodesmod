@@ -14,7 +14,7 @@
       "drop": "#geodesmod:magma_geode_drops",
       "drop_chance": 1.0,
       "min_drop_count": 1,
-      "max_drop_count": 2
+      "max_drop_count": 1
     },
     {
       "drop": "#geodesmod:magma_geode_uncommon_drops",

@@ -12,9 +12,9 @@
   "drops": [
     {
       "drop": "#geodesmod:gem_drops",
-      "drop_chance": 1.0,
+      "drop_chance": 0.5,
       "min_drop_count": 1,
-      "max_drop_count": 3
+      "max_drop_count": 2
     }
   ]
 }
