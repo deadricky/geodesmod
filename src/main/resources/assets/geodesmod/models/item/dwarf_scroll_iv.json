@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "geodesmod:item/dwarf_scroll_vi"
+    "layer0": "geodesmod:item/dwarf_scroll_iv"
   }
 }

@@ -57,7 +57,7 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> DRIED_STARFISH = ITEMS.register("dried_starfish",
             () -> new Item(new Item.Properties()));
-    public static final DeferredItem<Item> DWARF_SCROLL_VI = ITEMS.register("dwarf_scroll_vi",
+    public static final DeferredItem<Item> DWARF_SCROLL_IV = ITEMS.register("dwarf_scroll_iv",
             () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> DWARF_GADGET = ITEMS.register("dwarf_gadget",
             () -> new Item(new Item.Properties()));

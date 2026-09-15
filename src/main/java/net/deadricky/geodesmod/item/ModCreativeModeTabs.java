@@ -55,7 +55,7 @@ public class ModCreativeModeTabs {
                                 output.accept(ModItems.DWARF_SCROLL_I.get());
                                 output.accept(ModItems.DWARF_SCROLL_II.get());
                                 output.accept(ModItems.DWARF_SCROLL_III.get());
-                                output.accept(ModItems.DWARF_SCROLL_VI.get());
+                                output.accept(ModItems.DWARF_SCROLL_IV.get());
                                 output.accept(ModItems.DWARVISH_HELM.get());
                                 output.accept(ModItems.EARTH_CRYSTAL.get());
                                 output.accept(ModItems.ELVISH_JEWELRY.get());
