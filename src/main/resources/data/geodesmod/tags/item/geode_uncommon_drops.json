@@ -2,11 +2,11 @@
   "values": [
     "geodesmod:granite",
     "geodesmod:mudstone",
-    "geodesmod:anchor",
     "geodesmod:earth_crystal",
     "geodesmod:limestone",
     "geodesmod:bone_flute",
     "geodesmod:orpiment",
+    "geodesmod:chipped_amphora",
     "geodesmod:marble"
   ]
 }

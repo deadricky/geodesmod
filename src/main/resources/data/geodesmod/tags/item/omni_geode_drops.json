@@ -6,10 +6,8 @@
     "cobblemon:plume_fossil",
     "cobblemon:armor_fossil",
     "geodesmod:fluorapatite",
-    "geodesmod:opal",
     "cobblemon:skull_fossil",
     "cobblemon:claw_fossil",
-    "geodesmod:jagoite",
     "cobblemon:root_fossil",
     "cobblemon:old_amber_fossil",
     "cobblemon:dome_fossil",
@@ -19,6 +17,7 @@
     "cobblemon:fossilized_fish",
     "cobblemon:fossilized_bird",
     "cobblemon:sail_fossil",
-    "cobblemon:jaw_fossil"
+    "cobblemon:jaw_fossil",
+    "geodesmod:gem_node"
   ]
 }
